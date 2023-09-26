@@ -10,6 +10,6 @@ venv.bak/
 
 # Tests
 .pytest_cache/
-pytest.ini
-tests/
 
+# Drafts
+drafts/
